@@ -200,10 +200,11 @@ void loop()
   BotonUP();
   BotonDOWM();
   BotonARM();
+
+  Tarea2();
   if(armada)
   {
     Tarea1();
-    Tarea2();
   }
   
 }
